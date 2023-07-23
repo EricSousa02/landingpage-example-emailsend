@@ -1,3 +1,10 @@
+para o sistema de emai:
+*crie um arquivo .env.local *dentro do arquivo coloque duas variaveis: EMAIL=email_de_onde_sera_enviado | PASSWORD=senha_de_app
+
+-essa senha_de_app é necessario ativar nas configurações de segurança da conta do google para email
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
